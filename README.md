@@ -111,5 +111,5 @@ fraud-trust-score-model/
 
 ## Author
 
-Abdulmalik Wahab — Data Science | Pharmacology background | Health & fintech
-analytics.
+Abdulmalik Wahab — Data Science  | Machine Learning and AI | Pharmacology | Health & fintech
+analytics
